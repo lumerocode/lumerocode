@@ -6,9 +6,9 @@ Hi guys, I'm lumerocode and I'm a System Engineer. Currently I'm training in Web
 
  ## Here are more about me 🤙:
 
-- 🔭 I’m currently working on Divelia Studio S.A.C. as CMS specialist with LMS application | eCommerce & MarketPlaces. 
-- 👨🏽‍💻 My main programming languages/platforms are JavaScript and Typescript.
-- 🌱 I’m learning React Js and Django.
+- 🔭 I’m currently looking for a job. 
+- 👨🏽‍💻 My main programming language/platform is JavaScript.
+- 🌱 I’m learning React Js and love it.
 -  ♥️ I love learning new languages, programming languages and practicing them.
 - 💬 Ask me about Content Management System and React Js.
 
