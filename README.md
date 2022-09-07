@@ -8,7 +8,7 @@ Hi guys, I'm lumerocode and I'm a System Engineer. Currently I'm training in Web
 
 - 🔭 I’m currently looking for a job. 
 - 👨🏽‍💻 My main programming language/platform is JavaScript.
-- 🌱 I’m learning React Js and love it.
+- 🌱 I’m learning Vue Js and love it.
 -  ♥️ I love learning new languages, programming languages and practicing them.
 - 💬 Ask me about Content Management System and React Js.
 
