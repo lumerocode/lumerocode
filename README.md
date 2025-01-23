@@ -2,13 +2,13 @@
 
 ![Cover Image](https://user-images.githubusercontent.com/32435210/148407392-6fae5264-f74e-4c3b-8121-27111eb390c6.jpg)
 
-Hi guys, I'm lumerocode and I'm a System Engineer. Currently I'm training in Web Development with the aim of being a good Frontend Developer. I have creative capacity, teamwork and ease of adaptation to changes, always predisposed to collaborate and with a constant desire to learn and continue my professional and academic training. 
+Hi guys, I'm Lumerocode, a Systems Engineer with over 2 years of experience as a Frontend and CMS Developer. I'm passionate about technology, skilled in creative problem-solving, and adept at teamwork and adapting to changes. I'm always eager to learn and contribute to my professional growth.
 
  ## Here are more about me 🤙:
 
-- 🔭 I’m currently looking for a job. 
-- 👨🏽‍💻 My main programming language/platform is JavaScript.
-- 🌱 I’m learning Vue Js and love it.
+- 🔭 I’m currently working in a fintech. 
+- 👨🏽‍💻 My main programming language/platform is JavaScript/Typescript.
+- 🌱 I’m learning Vue3 Js and love it.
 -  ♥️ I love learning new languages, programming languages and practicing them.
 - 💬 Ask me about Content Management System and React Js.
 
