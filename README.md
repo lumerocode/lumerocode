@@ -2,7 +2,7 @@
 
 ![Cover Image](https://user-images.githubusercontent.com/32435210/148407392-6fae5264-f74e-4c3b-8121-27111eb390c6.jpg)
 
-Hi guys, I'm Lumerocode, a Systems Engineer with over 2 years of experience as a Frontend and CMS Developer. I'm passionate about technology, skilled in creative problem-solving, and adept at teamwork and adapting to changes. I'm always eager to learn and contribute to my professional growth.
+Hi guys, I'm Lumerocode, a Systems Engineer with over 3 years of experience as a Frontend and CMS Developer. I'm passionate about technology, skilled in creative problem-solving, and adept at teamwork and adapting to changes. I'm always eager to learn and contribute to my professional growth.
 
  ## Here are more about me 🤙:
 
