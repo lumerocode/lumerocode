@@ -8,9 +8,9 @@ Hi guys, I'm Lumerocode, a Systems Engineer with over 4 years of experience as a
 
 - 🔭 I’m currently looking for a new job. 
 - 👨🏽‍💻 My main programming language/platform is JavaScript/Typescript.
-- 🌱 I’m learning Vue3 Js and love it.
+- 🌱 I’m learning Angular and love it.
 -  ♥️ I love learning new languages, programming languages and practicing them.
-- 💬 Ask me about Content Management System and React Js.
+- 💬 Ask me about HTML5, CSS3, Javascript, TypeScript, Sass, Less, Bootstrap 5, Styled Components, Redux, VueJs 2, VueJs 3, React Js, Hooks, Nuxt js, Api RestFul Web Services, BEM, Liferay, Scrum Metodology, PHP, Git, Lit.dev, Storybook and Content Management System.
 
 ## Find me around the web 🌎:
 - Tinkering with interactions on <a href="https://codepen.io/LuisMR27"> Codepen</a> 🏓
